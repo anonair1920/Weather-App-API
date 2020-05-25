@@ -1,3 +1,17 @@
+## Required Features 🎯
+* [ ] User is prompted when the app loads to give permission to use their location
+* [ ] User can see their current location's name
+* [ ] User can see their current location's fahrenheit & celsius temperature
+* [ ] User can see description of their current locatiosn weather
+* [ ] User can see an icon which illustrates the currentlocations weather
+## Required Features 🎯
+* [ ] User is prompted when the app loads to give permission to use their location
+* [ ] User can see their current location's name
+* [ ] User can see their current location's fahrenheit & celsius temperature
+* [ ] User can see description of their current locatiosn weather
+* [ ] User can see an icon which illustrates the currentlocations weather
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
