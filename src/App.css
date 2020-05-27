@@ -43,6 +43,22 @@
 
 body {
   height: 100%;
-  background-color: black;
-  color: white;
+  background-color: black ;
+  color: black;
+}
+
+.bigBox{
+  border: 1px solid black;
+  opacity: 0.8;
+  background-color: lightgreen;
+}
+
+button{
+  opacity: 1;
+  color: black;
+  background-color: yellow;
+}
+
+h1{
+  font-weight: 900
 }
